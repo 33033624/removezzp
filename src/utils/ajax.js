@@ -23,7 +23,7 @@ const getJsonp = (url, params = {}, opts = {}) => {
         ? resolve(data.respData)
         : reject(data.errMsg)
       } else {
-        reject('网络异常，请重试')
+        reject(new Error('网络异常，请重试'))
       }
     })
   })
