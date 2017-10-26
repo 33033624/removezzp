@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+src/assets/lib/*.js
+src/app/deliveryman/components/popup.js
+src/app/julypacket/lib/lucky-card/*.js
+src/assets/lib/luckcard/*.js

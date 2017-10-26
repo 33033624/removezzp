@@ -1,0 +1,66 @@
+{
+  "servers": {
+    "server": [
+      {
+        "type": "test",
+        "name": "zhuanzhuan-youpin-static-cdn-preonline",
+        "transfers": {
+          "transfer": [
+            {
+              "sourceFiles": "dist/*",
+              "remoteDirectory": "/youpin/activities"
+            }
+          ]
+        }
+      },
+      {
+        "type": "test",
+        "name": "192.168.185.128-cdn-for-test",
+        "transfers": {
+          "transfer": [
+            {
+              "sourceFiles": "dist/*",
+              "remoteDirectory": "/static.58.com/youpin/activities"
+            }
+          ]
+        }
+      },
+      {
+        "type": "preonline",
+        "name": "zhuanzhuan-youpin-static-cdn-preonline",
+        "transfers": {
+          "transfer": [
+            {
+              "sourceFiles": "dist/*",
+              "remoteDirectory": "/youpin/activities"
+            }
+          ]
+        }
+      },
+      {
+        "type": "online",
+        "name": "zhuanzhuan-youpin-static-cdn-online",
+        "transfers": {
+          "transfer": [
+            {
+              "sourceFiles": "dist/*",
+              "remoteDirectory": "/youpin/activities"
+            }
+          ]
+        }
+      },
+      {
+        "type": "online",
+        "name": "m.zhuanzhuan.58.com-for-root-online",
+        "transfers": {
+          "transfer": [
+            {
+              "sourceFiles": "dist/*",
+              "remoteDirectory": "/youpin/activities"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

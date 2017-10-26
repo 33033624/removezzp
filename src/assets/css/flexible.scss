@@ -1,0 +1,49 @@
+// 全站通用参数
+$cgreen: #00b65e;
+$cred: #ff5647;
+
+// ui图为750
+@function pxToRem($px) {
+	@return $px / 75px * 1rem;
+}
+
+// 这里的字号写ui图中的一半， 不允许ui图中出现奇数字号
+@mixin font-dpr($font-size){
+    font-size: $font-size;
+
+    [data-dpr="2"] & {
+        font-size: $font-size * 2;
+    }
+
+    [data-dpr="3"] & {
+        font-size: $font-size * 3;
+    }
+}
+
+@mixin border-width-dpr($width){
+  border-width: $width;
+
+  [data-dpr="2"] & {
+    border-width: $width * 2;
+  }
+
+  [data-dpr="3"] & {
+    border-width: $width * 3;
+  }
+}
+
+// flex fix
+%flex {
+	display: flex;
+	> * {
+		display: block;
+	}
+}
+
+%clearfix{
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+}

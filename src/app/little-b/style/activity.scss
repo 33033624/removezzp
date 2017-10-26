@@ -1,0 +1,112 @@
+.instructions-box{
+  height: 100%;
+  width: 100%;
+  background: #f2f3f6;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  .img-wrap{
+    margin-bottom: pxToRem(20px);
+    width: 100%;
+    img{
+      width: 100%;
+    }
+  }
+  .good-list{
+    width: 100%;
+  }
+  .good-item{
+    margin-bottom: pxToRem(20px);
+    background: #fff;
+  }
+
+}
+.model-contain-box{
+  width: pxToRem(600px);
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 2%;
+  text-align: center;
+}
+.model-cha{
+  text-align: right;
+  margin-top: pxToRem(30px);
+  margin-right: pxToRem(30px);
+  @include font-dpr(15px);
+  &>span{
+    display: inline-block;
+    width: pxToRem(30px);
+    height: pxToRem(30px);
+    text-align: center;
+  }
+}
+.model-title{
+  @include font-dpr(17px);
+  font-weight: bold;
+  margin-bottom: pxToRem(39px);
+}
+.model-text{
+  @include font-dpr(15px);
+  color:#aaaeb9;
+  line-height: pxToRem(41px);
+  padding: 0 pxToRem(20px) ;
+  margin: pxToRem(6px);
+  text-align: left;
+}
+
+.model-button{
+  margin-top: pxToRem(86px);
+  line-height: pxToRem(98px);
+  @include font-dpr(17px);
+  color:#43474c;
+  border-top: 1px solid #eaeaea;
+}
+.model-contain{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: pxToRem(600px);
+}
+.model-top{
+  z-index: 2;
+}
+.model-contain-input{
+  width: 100%;
+  background: white;
+  margin-top: pxToRem(-80px);
+  padding-top: pxToRem(150px);
+}
+.model-text-box{
+  text-align: center;
+  color: #000;
+  @include font-dpr(18px);
+  font-weight: bold;
+  margin-bottom: pxToRem(40px);
+}
+.model-input{
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  height: pxToRem(50px);
+  border: 1px solid #999;
+}
+.button-box{
+  width: 100%;
+  margin-top: pxToRem(40px);
+  display: flex;
+  border-top: 1px solid #999;
+  flex-direction: row;
+  justify-content: center;
+  span{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    height: pxToRem(80px);
+    line-height: pxToRem(80px);
+  }
+  .button-submit{
+    background: #ff5647;
+  }
+}

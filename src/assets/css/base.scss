@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body {
+	-webkit-user-select: none;
+	-webkit-text-size-adjust: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+	font-family: "PingFang SC", Helvetica, sans-serif;
+	color: #333;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+  &:visited,&:hover,&:focus,&:active{
+    color: inherit;
+  }
+}
+
+i, em {
+	font-style: normal;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset, img {
+    border: 0;
+}
+
+button, input, textarea{
+	font-family: inherit;
+	font-size: inherit;
+	outline: 0;
+}
+
+textarea{
+	resize: none;
+}

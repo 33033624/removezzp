@@ -1,0 +1,69 @@
+.serch-box{
+  margin-top: pxToRem(65px);
+  margin-bottom: pxToRem(60px);
+  padding: 0 pxToRem(60px);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: right;
+  align-items: center;
+}
+.activity-price{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  .text{
+    @include font-dpr(13px);
+    color: #aaaeb9;
+  }
+  .price{
+    @include font-dpr(22px);
+    color:#ff5647;
+    font-weight: normal;
+    .rmb{
+      @include font-dpr(10px);
+    }
+  }
+}
+.search-button{
+  display: inline-block;
+  height: pxToRem(70px);
+  width: pxToRem(230px);
+  text-align: center;
+  background: #ff5647;
+  color:#ffffff;
+  line-height: pxToRem(70px);
+  border-radius: pxToRem(3px);
+}
+.other-desp{
+  text-align: center;
+  color:#fdb72d;
+  margin: 0 pxToRem(30px);
+  padding-bottom: pxToRem(60px);
+  border-bottom: 1px dashed #d6dae1;
+  @include font-dpr(12px);
+}
+.table-box{
+  margin: pxToRem(30px);
+}
+.zzyp-select-container .zzyp-select-ui-toolbar{
+  border-bottom: 1px solid #D2D2D2;
+}
+.zzyp-select-scroller .zzyp-select-ui-scroller{
+  border-top:1px solid  #D2D2D2;
+  border-bottom: 1px solid #D2D2D2;
+}
+.toTop{
+  display: inline-block;
+  width: pxToRem(83px);
+  height: pxToRem(83px);
+  position: fixed;
+  right: pxToRem(56px);
+  bottom: pxToRem(74px);
+  border-radius: 50%;
+  background: url('../img/totop.png') no-repeat center;
+  background-size: cover;
+}
+.warn .list-item-wrap .right-text-no{
+  color: #fdb72d;
+}
