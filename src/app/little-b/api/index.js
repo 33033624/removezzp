@@ -1,4 +1,4 @@
-import { get } from 'util/ajax.js'
+import { get } from 'utils/ajax.js'
 
 const host = '//ypactivity.58.com'
 

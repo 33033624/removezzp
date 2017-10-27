@@ -1,0 +1,102 @@
+{
+  "respCode": 0,
+  "respData": {
+    "userInfo": {
+      "uid": 1111111,
+      "nickname": "张海威",
+      "portrait": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg?w=20&h=20",
+      "isGoodMerchant": 1,
+      "labels": [
+        "圈主",
+        "已开通",
+        "手机好卖家"
+      ],
+      "statisticStatus": 2,
+      "totalSoldCount": 291,
+      "recentSoldCount": 53,
+      "onSaleCount": 45,
+      "fansCount": 567,
+      "compositeScore": "4.8",
+      "isFollowed":1
+    },
+    "goodsList": [
+      {
+        "summary": "苹果iPhone6splus 金色 国行 全网通 64g 在保 有发票 外观很好没有磕碰划痕，指纹解锁正常 原装屏幕 配件 需要的联系我",
+        "tags": [
+          "支持邮寄验机"
+        ],
+        "title": "苹果 iPhone6s Plus 金色 64G 国行 苹果iPhone6splus 金色 64G",
+        "price": 500,
+        "address": "北京酒仙桥",
+        "images": [
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg"
+        ],
+        "viewCount": 1353
+      },
+      {
+        "tags": [
+          "支持邮寄验机"
+        ],
+        "summary": "苹果iPhone6splus 金色 国行 全网通 64g 在保 有发票 外观很好没有磕碰划痕，指纹解锁正常 原装屏幕 配件 需要的联系我",
+        "title": "苹果 iPhone6s Plus 金色 64G 国行 苹果iPhone6splus 金色 64G",
+        "price": 500,
+        "address": "北京酒仙桥",
+        "images": [
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg"
+        ],
+        "viewCount": 1353
+      },
+      {
+        "tags": [
+          "支持邮寄验机"
+        ],
+        "summary": "苹果iPhone6splus 金色 国行 全网通 64g 在保 有发票 外观很好没有磕碰划痕，指纹解锁正常 原装屏幕 配件 需要的联系我",
+        "title": "苹果 iPhone6s Plus 金色 64G 国行 苹果iPhone6splus 金色 64G",
+        "price": 500,
+        "address": "北京酒仙桥",
+        "images": [
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg"
+        ],
+        "viewCount": 1353
+      },
+      {
+        "tags": [
+          "支持邮寄验机"
+        ],
+        "summary": "苹果iPhone6splus 金色 国行 全网通 64g 在保 有发票 外观很好没有磕碰划痕，指纹解锁正常 原装屏幕 配件 需要的联系我",
+        "title": "苹果 iPhone6s Plus 金色 64G 国行 苹果iPhone6splus 金色 64G",
+        "price": 500,
+        "address": "北京酒仙桥",
+        "images": [
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg",
+          "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg"
+        ],
+        "viewCount": 1353
+      }
+    ]
+  },
+  "errMsg": ""
+}

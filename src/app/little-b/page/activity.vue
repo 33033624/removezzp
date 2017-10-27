@@ -40,7 +40,7 @@ import native from '@zz-yp/native-adapter'
 import Vue from 'vue'
 import VueLazyload from 'vue-lazyload'
 import {getShangpinList, ypValidate, getActivityDetail} from '../api/index.js'
-import {getCookie} from 'util/cookiejs.js'
+import {getCookie} from 'utils/cookiejs.js'
 import Toast from '@zz-yp/vue-ui-lib/dist/toast'
 Vue.use(VueLazyload)
 export default {

@@ -1,0 +1,19 @@
+{
+  "sellerCount": 5555,
+  "info": [
+  {
+    "headimg": "http://ojfvv88ov.bkt.clouddn.com/IMG_0529.JPG",
+    "userName": "张三",
+    "content": "本月交易达10台，获得500元现金奖励"
+  },
+  {
+    "headimg": "http://ojfvv88ov.bkt.clouddn.com/IMG_0529.JPG",
+    "userName": "李四",
+    "content": "本月交易达10台，"
+  },
+  {
+    "headimg": "http://ojfvv88ov.bkt.clouddn.com/IMG_0529.JPG",
+    "userName": "一二三四",
+    "content": "不知道说什么"
+  }]
+}

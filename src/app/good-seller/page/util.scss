@@ -1,0 +1,11 @@
+@mixin bg-pic($pic: '') {
+  @if $pic {
+    background-image: url("../img/" + $pic);
+  }
+  background-size: 100% 100%;
+}
+
+@mixin size($x, $y) {
+  height: $y;
+  width: $x;
+}

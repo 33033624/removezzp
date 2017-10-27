@@ -1,0 +1,315 @@
+{
+  "userInfo":
+  {
+    "uid": "33276883520262",
+    "nickname": "嗨起来哦",
+    "portrait": "http://wx.qlogo.cn/mmopen/wyGzLPllCURC84tX2OniboM1vYmtD0iane08YpWSZ4MN7eAwEwWYLbictEmCwsQKS7Btzlx7bEibx3G8HiasC0DnOd6L94jklZgFr/0",
+    "isGoodMerchant": 0,
+    "labels": ["http://img.58cdn.com.cn/zhuanzhuan/zz/labels/lord_solid@3x.png", "http://img.58cdn.com.cn/zhuanzhuan/zz/labels/sjhaomaijia@2x.png", "http://img.58cdn.com.cn/zhuanzhuan/zz/labels/zhima_label_level_5@3x.png"],
+    "statisticStatus": 0,
+    "compositeScore": ""
+  },
+  "notify": "",
+  "sellersInCircle": 3250,
+  "rewardsAndPunishment": [
+  {
+    "content": "张三发布信息包含联系方式，被系统处罚",
+    "nickname": "张三",
+    "portrait": "http://pic6.58cdn.com.cn/zhuanzh/n_dd5e0bd186e14372adee4687ee2cb4f6.jpg?w\u003d20\u0026h\u003d20"
+  },
+  {
+    "content": "李四发布信息包含联系方式，被系统处罚",
+    "nickname": "李四",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "王五发布信息包含联系方式，被系统处罚",
+    "nickname": "王五",
+    "portrait": "http://pic5.58cdn.com.cn/m1/bigimage/n_v2c7a13526bc324f46829fc8a5c1d132d1.jpg?w\u003d20\u0026h\u003d20"
+  },
+  {
+    "content": "超越梦想发布商品重复率太高，被系统处罚",
+    "nickname": "超越梦想",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "曾琦在售商品超过15台，被系统处罚",
+    "nickname": "曾琦",
+    "portrait": "http://pic5.58cdn.com.cn/zhuanzh/n_v2c96cc14e2cb046e4b9de74e107f323f7_368_278.jpg"
+  },
+  {
+    "content": "眼镜参与活动成交记录良好，特许奖励",
+    "nickname": "眼镜",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "kk2288引导面交涉嫌诈骗被举报，被封号处理",
+    "nickname": "kk2288",
+    "portrait": "https://zzpic1.58cdn.com.cn/zhuanzh/n_v2eb2d274952d94d4b99f9c90402fee05f.jpg?w\u003d20\u0026h\u003d20"
+  },
+  {
+    "content": "╰飞つ借用官方认证进行诈骗，被封号处理",
+    "nickname": "╰飞つ",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "sonny非她不头像含二维码、联系方式，被系统处罚",
+    "nickname": "sonny非她不",
+    "portrait": "http://pic7.58cdn.com.cn/zhuanzh/n_v1bl2lwkbqswsvrev2gmna.jpg"
+  },
+  {
+    "content": "嘜瀦引导微信交易，被系统处罚",
+    "nickname": "嘜瀦",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "strom98参与活动成交记录良好，特许奖励",
+    "nickname": "strom98",
+    "portrait": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg"
+  },
+  {
+    "content": "lin借用官方认证进行诈骗，被封号处理",
+    "nickname": "lin",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "平凡发布商品重复率太高，被系统处罚",
+    "nickname": "平凡",
+    "portrait": "http://pic2.58cdn.com.cn/m1/bigimage/n_v1bl2lwkaudaovteh2fmeq.jpg"
+  },
+  {
+    "content": "蔡仁傑参与活动成交记录良好，特许奖励",
+    "nickname": "蔡仁傑",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "中华英雄查实发送虚假商品链接、支付链接，被封号处理",
+    "nickname": "中华英雄",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "小宝贝发布信息有明显广告词，被系统处罚",
+    "nickname": "小宝贝",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  },
+  {
+    "content": "纯洁的半烟描述与实际极不符合，欺骗买家被举报，被封号处理",
+    "nickname": "纯洁的半烟",
+    "portrait": "http://pic5.58cdn.com.cn/m1/bigimage/n_v1bkujjd7xrtrvpnv4aqpa.jpg?w\u003d20\u0026h\u003d20"
+  },
+  {
+    "content": "∩千里之外し参与活动成交记录良好，特许奖励",
+    "nickname": "∩千里之外し",
+    "portrait": "http://pic4.58cdn.com.cn/zhuanzh/n_v1bl2lwkdkoksvqopcdyma.jpg"
+  }],
+  "orderHelpers": [
+  {
+    "icon": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "name": "认证招募",
+    "url": "http://www.zhuanzhuan.com"
+  },
+  {
+    "icon": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "name": "认证招募",
+    "url": "http://www.zhuanzhuan.com"
+  },
+  {
+    "icon": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "name": "认证招募",
+    "url": "http://www.zhuanzhuan.com"
+  }],
+  "activityBanner": [
+  {
+    "image": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "url": "http://www.zhuanzhuan.com/"
+  },
+  {
+    "image": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "url": "http://www.zhuanzhuan.com/"
+  },
+  {
+    "image": "http://pic7.58cdn.com.cn/zhuanzh/n_v2ecacb6eda6bd4c6d8408bd84910c766d.jpg",
+    "url": "http://www.zhuanzhuan.com/"
+  }],
+  "goodsList": [
+  {
+    "goodsId": "742184348015575041",
+    "images": "n_v1bl2lwwmvdrpfoug2wqqq.jpg",
+    "title": "手机",
+    "summary": "请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": ["http://img.58cdn.com.cn/zhuanzhuan/zz/labels/lord_solid@3x.png"],
+    "price": 100,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "742186532098719745",
+    "images": "n_v1bkujjd5kdzpfoda6lqha.jpg",
+    "title": "手机",
+    "summary": "请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 100,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "749866601935978497",
+    "images": "n_v1bj3gzsacb55fps7isypa.jpg",
+    "title": "手机",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 100,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "771984538792542210",
+    "images": "n_v1bkuyfvj4q3ffpdnkyevq.jpg|n_v1bl2lwkbyq3ffpiddxrlq.jpg",
+    "title": "手机3",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 100,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "790855177754296322",
+    "images": "n_v1bl2lwwn6fqhvqt77xjda.jpg|n_v1bj3gzsf6fqhvrzido4lq.jpg",
+    "title": "质检标签",
+    "summary": "看破破破 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 1436700,
+    "viewCount": 0,
+    "address": "1050"
+  },
+  {
+    "goodsId": "860353733711806465",
+    "images": "n_v1bl2lwkdbaigfs2yjiblq.jpg",
+    "title": "123",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 368500,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899549297565155329",
+    "images": "n_v2f8140612d8764552b8e98051d3882fb6.jpg",
+    "title": "手机",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 14700,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899569368366759937",
+    "images": "n_v21ffda06f9513468681030e63dab35e25.jpg",
+    "title": "手机卡",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 25800,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899569719811686401",
+    "images": "n_v25d835eb15c3a4dd59c28e8f8433cb558.jpg",
+    "title": "时候",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 99900,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899572678054297601",
+    "images": "n_v21ffda06f9513468681030e63dab35e25.jpg",
+    "title": "管理",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 14700,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899574457496158209",
+    "images": "n_v252d6fe43500342a592dcf40dcbd166d4.jpg",
+    "title": "公积金",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 89900,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899574754243166209",
+    "images": "n_v25d835eb15c3a4dd59c28e8f8433cb558.jpg",
+    "title": "‘’‘",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 6600,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899936713786441729",
+    "images": "n_v216171602d74e4e64be617718c783a649.jpg|n_v280c0dcfa0ddb42618e648a42778bb563.jpg",
+    "title": "手机",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 36900,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "899962511486533633",
+    "images": "n_v21e9b94bba8444fd8abc648029d5b778c.jpg|n_v244eb981899674c2fb0fe1e8e8e34b09f.jpg",
+    "title": "测试结果",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 88800,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "900564380302884865",
+    "images": "n_v28e394b5aea574f0bbba7cb69369fd9a8.jpg",
+    "title": "啦啦啦有没有问题",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 12300,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "900582103586095105",
+    "images": "n_v24401dc62d9c2442fbf74a12e637b0271.jpg|n_v246039ac1ffcd4000affddbdc79e571aa.jpg",
+    "title": "安卓测试02",
+    "summary": " 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 200,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "900583758792671233",
+    "images": "n_v2435e75c9a27b4cbc8f7872b9f14402a8.jpg",
+    "title": "安卓测试3",
+    "summary": "有验机服务 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 300,
+    "viewCount": 0,
+    "address": "1143"
+  },
+  {
+    "goodsId": "900584727219716097",
+    "images": "n_v21d76806c327244c3a44da003800a6eab.jpg|n_v23e2b883ab6a6444ba811e20c28eacead.jpg",
+    "title": "安卓4",
+    "summary": "未选择同城验机 请走转转担保交易，喜欢的话就赶快联系我吧。",
+    "tags": "",
+    "price": 400,
+    "viewCount": 0,
+    "address": "1143"
+  }]
+}
