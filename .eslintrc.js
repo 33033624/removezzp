@@ -25,6 +25,6 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     //缩进风格
     "indent": ["error", 2, { "SwitchCase": 1 }],
-    "no-ternary": 1
+    "no-unused-expressions": 0
     }
 }
