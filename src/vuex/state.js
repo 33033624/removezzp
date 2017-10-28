@@ -1,7 +1,5 @@
 let state = {
-  jixinglist: [],
-  pinpailist: [],
-  attrlist: [],
-  pricelist: []
+  //  vuex test
+  test_state: ''
 }
 export default state

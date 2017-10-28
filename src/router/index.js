@@ -54,6 +54,10 @@ export default new Router({
           component: () => import(/* webpackChunkName: "sellercentre.share" */'app/seller-centre/page/share.vue')
         }
       ]
+    },
+    {
+      path: '/test',
+      component: () => import('app/test/app.vue')
     }
   ]
 })

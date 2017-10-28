@@ -1,5 +1,2 @@
-// littleB price
-export const jixinglist = ({price}) => price.jixinglist
-export const pinpailist = ({price}) => price.pinpailist
-export const attrlist = ({price}) => price.attrlist
-export const pricelist = ({price}) => price.pricelist
+// vuex test
+export const GET_TEST_STATE = ({TEST_STATE}) => TEST_STATE.jixinglist
