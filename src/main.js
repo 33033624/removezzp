@@ -6,7 +6,7 @@ import App from './App'
 import 'es6-promise/auto'
 import 'core-js/es6/array'
 import router from './router'
-// import store from './store'
+import store from './vuex/store'
 import infiniteScroll from 'vue-infinite-scroll'
 import {performancePlugin, routerHook} from '@zz-yp/vue-performance'
 import Loading from 'components/loading'
@@ -29,6 +29,6 @@ router.beforeEach(routerHook)
 new Vue({
   el: '#app',
   router,
-  // store,
+  store,
   render: h => h(App)
 })

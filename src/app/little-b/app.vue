@@ -6,6 +6,11 @@
 
 <script>
 export default {
+  created () {
+    this.$store.dispatch('GET_JIXING_LIST').then(json => {
+      console.log(json)
+    })
+  }
 }
 </script>
 
